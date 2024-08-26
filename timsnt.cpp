@@ -14,7 +14,6 @@ void timsnt(int a, int b){
 		}
 		i++;
 	}
-}
 
 void out(int a, int b){
 	bool check = false;
@@ -28,6 +27,7 @@ void out(int a, int b){
 	else cout<<"Tren doan "<<a<<" - "<<b<<" khong chua so nguyen to";
 }
 int main(){
+	cout<<"Chuong trinh liet ke so nguyen to trong khoang a - b \n";
     int a, b;
     cout << "Tim so nguyen to trong khoang(a - b): ";
     cin >> a >> b;
