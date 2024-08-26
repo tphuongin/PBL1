@@ -28,6 +28,7 @@ void out(int a, int b){
 }
 int main(){
 	cout<<"Chuong trinh liet ke so nguyen to trong khoang a - b \n";
+	cout << "hello";
     int a, b;
     cout << "Tim so nguyen to trong khoang(a - b): ";
     cin >> a >> b;
