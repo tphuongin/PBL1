@@ -28,6 +28,7 @@ void out(int a, int b){
 	else cout<<"Tren doan "<<a<<" - "<<b<<" khong chua so nguyen to";
 }
 int main(){
+	cout << "hello";
     int a, b;
     cout << "Tim so nguyen to trong khoang(a - b): ";
     cin >> a >> b;
